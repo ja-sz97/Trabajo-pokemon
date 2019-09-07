@@ -1,0 +1,205 @@
+# depslib dependency file v1.0
+1527909959 source:c:\users\robel\desktop\trabajo\pokemon\main.cpp
+	<iostream>
+	"Poke.h"
+	<string.h>
+	<string>
+
+1527910158 c:\users\robel\desktop\trabajo\pokemon\include\poke.h
+	<iostream>
+	<string.h>
+
+1527909998 source:c:\users\robel\desktop\trabajo\pokemon\src\poke.cpp
+	"Poke.h"
+	<iostream>
+	<string.h>
+
+1528489628 source:c:\users\user\desktop\pokemon\main.cpp
+	<iostream>
+	"Poke.h"
+	<string.h>
+	<string>
+	<fstream>
+	<sstream>
+
+1528770923 c:\users\user\desktop\pokemon\include\poke.h
+	<iostream>
+	<string.h>
+
+1528773271 source:c:\users\user\desktop\pokemon\src\poke.cpp
+	"Poke.h"
+	<iostream>
+	<string.h>
+	<fstream>
+	<sstream>
+	<cstdlib>
+	<ctype.h>
+
+1528489628 source:c:\users\robel\desktop\pokemon\main.cpp
+	<iostream>
+	"Poke.h"
+	<string.h>
+	<string>
+	<fstream>
+	<sstream>
+
+1529518551 c:\users\robel\desktop\pokemon\include\poke.h
+	<iostream>
+	<string.h>
+
+1529526962 source:c:\users\robel\desktop\pokemon\src\poke.cpp
+	"Poke.h"
+	<iostream>
+	<string.h>
+	<fstream>
+	<sstream>
+	<cstdlib>
+	<ctype.h>
+
+1528489628 source:c:\users\valen\desktop\pokemon (3)\pokemon\main.cpp
+	<iostream>
+	"Poke.h"
+	<string.h>
+	<string>
+	<fstream>
+	<sstream>
+
+1528787487 c:\users\valen\desktop\pokemon (3)\pokemon\include\poke.h
+	<iostream>
+	<string.h>
+
+1528784976 source:c:\users\valen\desktop\pokemon (3)\pokemon\src\poke.cpp
+	"Poke.h"
+	<iostream>
+	<string.h>
+	<fstream>
+	<sstream>
+	<cstdlib>
+	<ctype.h>
+
+1528489628 source:c:\users\robel\desktop\pokemon (3)\pokemon\main.cpp
+	<iostream>
+	"Poke.h"
+	<string.h>
+	<string>
+	<fstream>
+	<sstream>
+
+1529296475 c:\users\robel\desktop\pokemon (3)\pokemon\include\poke.h
+	<iostream>
+	<string.h>
+
+1529297695 source:c:\users\robel\desktop\pokemon (3)\pokemon\src\poke.cpp
+	"Poke.h"
+	<iostream>
+	<string.h>
+	<fstream>
+	<sstream>
+	<cstdlib>
+	<ctype.h>
+
+1528489628 source:c:\users\valen\desktop\pokemon (4)\pokemon (3)\pokemon\main.cpp
+	<iostream>
+	"Poke.h"
+	<string.h>
+	<string>
+	<fstream>
+	<sstream>
+
+1529383102 c:\users\valen\desktop\pokemon (4)\pokemon (3)\pokemon\include\poke.h
+	<iostream>
+	<string.h>
+
+1529383403 source:c:\users\valen\desktop\pokemon (4)\pokemon (3)\pokemon\src\poke.cpp
+	"Poke.h"
+	<iostream>
+	<string.h>
+	<fstream>
+	<sstream>
+	<cstdlib>
+	<ctype.h>
+
+1528489628 source:c:\users\user\desktop\vale\pokemon\main.cpp
+	<iostream>
+	"Poke.h"
+	<string.h>
+	<string>
+	<fstream>
+	<sstream>
+
+1529425957 c:\users\user\desktop\vale\pokemon\include\poke.h
+	<iostream>
+	<string.h>
+
+1529429796 source:c:\users\user\desktop\vale\pokemon\src\poke.cpp
+	"Poke.h"
+	<iostream>
+	<string.h>
+	<fstream>
+	<sstream>
+	<cstdlib>
+	<ctype.h>
+
+1528489628 source:c:\users\valen\desktop\pokemon1\pokemon\main.cpp
+	<iostream>
+	"Poke.h"
+	<string.h>
+	<string>
+	<fstream>
+	<sstream>
+
+1529494164 c:\users\valen\desktop\pokemon1\pokemon\include\poke.h
+	<iostream>
+	<string.h>
+
+1529494399 source:c:\users\valen\desktop\pokemon1\pokemon\src\poke.cpp
+	"Poke.h"
+	<iostream>
+	<string.h>
+	<fstream>
+	<sstream>
+	<cstdlib>
+	<ctype.h>
+
+1528489628 source:c:\users\valen\desktop\pokemon\main.cpp
+	<iostream>
+	"Poke.h"
+	<string.h>
+	<string>
+	<fstream>
+	<sstream>
+
+1529549030 c:\users\valen\desktop\pokemon\include\poke.h
+	<iostream>
+	<string.h>
+
+1529549002 source:c:\users\valen\desktop\pokemon\src\poke.cpp
+	"Poke.h"
+	<iostream>
+	<string.h>
+	<fstream>
+	<sstream>
+	<cstdlib>
+	<ctype.h>
+
+1529551481 source:c:\users\valen\desktop\pokemonf\pokemon\main.cpp
+	<iostream>
+	"Poke.h"
+	<string.h>
+	<string>
+	<fstream>
+	<sstream>
+
+1529549032 c:\users\valen\desktop\pokemonf\pokemon\include\poke.h
+	<iostream>
+	<string.h>
+
+1529552008 source:c:\users\valen\desktop\pokemonf\pokemon\src\poke.cpp
+	"Poke.h"
+	<iostream>
+	<string.h>
+	<fstream>
+	<sstream>
+	<cstdlib>
+	<ctype.h>
+
